@@ -11,7 +11,8 @@ public class RepeatedString
         int extra = 0;
 
         int count = 0;
-        for(int i = 0; i < size; i++){
+        for(int i = 0; i < size; i++)
+        {
             if(s.charAt(i) == 'a')
             {
                 ++count;
