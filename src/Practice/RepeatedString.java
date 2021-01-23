@@ -9,7 +9,6 @@ public class RepeatedString
         long size = s.length(), repeated = n/size;
         long left = n - (size * repeated);
         int extra = 0;
-
         int count = 0;
         for(int i = 0; i < size; i++)
         {
