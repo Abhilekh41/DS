@@ -1,5 +1,8 @@
 package Sorting;
 
+
+//comparing one element to it's next one
+//order of n square
 public class BubbleSort
 {
     public static void main(String args[])
