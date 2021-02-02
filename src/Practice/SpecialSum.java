@@ -9,6 +9,7 @@ public class SpecialSum
     {
         int[] arr = {1,2,3};
         List<Integer> list  = new ArrayList<>();
+
         for(int i = 0; i <arr.length;i++)
         {
             list.add(arr[i]);
